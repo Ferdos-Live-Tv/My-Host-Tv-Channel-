@@ -19,4 +19,6 @@ http://opplex.tv:8080/live/488197/435900/311373.ts
 http://opplex.tv:8080/live/488197/435900/311373.ts
 #EXT-X-STREAM-INF:BANDWIDTH=366612,AVERAGE-BANDWIDTH=352669,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
 http://opplex.tv:8080/live/488197/435900/311373.ts
-
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t2_r999999999.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URI="https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t2_r999999999.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=NO,AUTOSELECT=NO,URI="https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t2_r999999999.m3u8"
